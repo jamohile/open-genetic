@@ -1,7 +1,7 @@
 {
   "name": "open-genetic",
   "version": "0.1.1",
-  "description": "",
+  "description": "A flexible library for implementing genetic algorithms.",
   "main": "index.js",
   "scripts": {
     "build-dev": "tsc --watch",
