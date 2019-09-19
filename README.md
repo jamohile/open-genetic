@@ -1,5 +1,6 @@
-# Open Genetic
+![Logo](https://user-images.githubusercontent.com/17712692/65209372-ef214d80-da65-11e9-9461-e10ff2c5a1e6.png)
 
+# Open Genetic
 ## Disclaimer
 
 This package is currently a work in progress, but please feel free to contribute or experiment!
@@ -227,5 +228,6 @@ In no particular order, the following is necessary going forward.
 - Unit testing
 - Better tracking of previous generations, characteristics that get promoted.
 - More sophisticated selection for object promotion, choose some wildcards, etc.
+- Visualization
 - More evaluators
 - More schema types
